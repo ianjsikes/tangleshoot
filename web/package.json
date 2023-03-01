@@ -1,0 +1,11 @@
+{
+  "name": "tangleshoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.17.10"
+  }
+}
